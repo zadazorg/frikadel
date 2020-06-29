@@ -1,2 +1,3 @@
 proc superpuper*() =
+    ## Like documentation for this my proc...
     echo "Yopta!"
