@@ -1,0 +1,2 @@
+proc superpuper*() =
+    echo "Yopta!"
